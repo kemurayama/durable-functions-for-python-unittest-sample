@@ -1,0 +1,8 @@
+.devcontainer
+.git*
+.venv
+.vscode
+local.settings.json
+test
+LICENSE
+README.md
